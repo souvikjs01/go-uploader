@@ -26,5 +26,5 @@ It allows uploading **multiple image files** (`.png` or `.jpg`) via an HTTP POST
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/go-file-upload.git
-   cd go-file-upload
+   git clone https://github.com/souvikjs01/go-uploader.git
+   cd go-uploader
